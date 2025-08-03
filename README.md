@@ -15,3 +15,5 @@ Traditional ML focused on improving models. But in MLOps, better performance oft
 >  Data-Centric AI = Better performance through better data
 
 Better data → Better model performance → More reliable ML systems in production.
+
+Better Explanation : Data is food for AI
